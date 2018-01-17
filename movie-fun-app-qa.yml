@@ -10,8 +10,6 @@ logging:
     io:
       pivotal: INFO
 
-greeting:
-  displayFortune: true
-  
 movies:
   url: http://movie-service-renuchandran-qa.apps.cumuluslabs.io/movies
+  environment: QA Environment
