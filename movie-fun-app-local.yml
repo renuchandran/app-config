@@ -11,5 +11,5 @@ logging:
       pivotal: INFO
 
 movies:
-  url: http://movie-service-renuchandran.apps.cumuluslabs.io/movies
+  url: //movie-service/movies
   environment: Local/DEV Environment
