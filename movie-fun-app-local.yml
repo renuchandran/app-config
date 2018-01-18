@@ -11,5 +11,5 @@ logging:
       pivotal: INFO
 
 movies:
-  url: //movie-service/movies
+  url: MOVIE-SERVICE
   environment: Local/DEV Environment
