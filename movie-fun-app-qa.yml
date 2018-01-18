@@ -11,5 +11,5 @@ logging:
       pivotal: INFO
 
 movies:
-  url: MOVIE-SERVICE-QA
+  url: http://movie-service-qa/movies
   environment: QA Environment

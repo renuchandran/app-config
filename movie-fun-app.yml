@@ -14,5 +14,5 @@ greeting:
   displayFortune: true
   
 movies:
-  url: MOVIE-SERVICE
+  url: http://movie-service/movies
 #  url: http://movie-service-renuchandran.apps.cumuluslabs.io/movies
