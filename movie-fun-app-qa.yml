@@ -12,4 +12,4 @@ logging:
 
 movies:
   url: http://movie-service-qa/movies
-  environment: QA-Environment
+  environment: QA Environment
