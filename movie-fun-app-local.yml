@@ -13,3 +13,4 @@ logging:
 movies:
   url: http://movie-service/movies
   environment: Local/DEV Environment
+  pageSize: 7

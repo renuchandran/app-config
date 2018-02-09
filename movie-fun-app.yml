@@ -16,4 +16,5 @@ greeting:
 movies:
   url: http://movie-service/movies
   environment: Local DEV Environment
+  pageSize: 10
 #  url: http://movie-service-renuchandran.apps.cumuluslabs.io/movies
