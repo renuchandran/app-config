@@ -15,4 +15,5 @@ greeting:
   
 movies:
   url: http://movie-service/movies
+  environment: Local/DEV Environment
 #  url: http://movie-service-renuchandran.apps.cumuluslabs.io/movies
